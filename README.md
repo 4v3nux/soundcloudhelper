@@ -8,7 +8,8 @@ What it does:
 - finds `Add to Playlist` in it;
 - clicks the standard SoundCloud button, so playlist selection and authorization remain on the SoundCloud side.
 
-Installation:1. Unzip the ZIP.
+Installation:
+1. Unzip the ZIP.
 2. Open `chrome://extensions`.
 3. Enable `Developer mode`.
 4. Click `Load unpacked`.
