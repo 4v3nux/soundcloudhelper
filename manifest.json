@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "SoundCloud Playlist Helper",
+  "version": "1.0.0",
+  "description": "Adds an Add to Playlist action to SoundCloud track cards and opens SoundCloud's native playlist picker.",
+  "icons": {
+    "128": "128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://soundcloud.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": [],
+  "host_permissions": [
+    "https://soundcloud.com/*"
+  ]
+}
