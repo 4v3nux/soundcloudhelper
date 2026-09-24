@@ -1,6 +1,8 @@
 # SoundCloud Helper
-
 This is a local Chrome extension for SoundCloud.
+
+## Example screenshot
+<img width="1282" height="238" alt="image" src="https://github.com/user-attachments/assets/2830f35b-9043-4f4b-ba0d-4dcb00126260" />
 
 What it does:
 - adds a quick `＋ Playlist` next to the `...` button;
